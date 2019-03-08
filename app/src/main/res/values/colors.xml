@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorIndigo">#3f51b5</color>
+    <color name="colorBlue">#5677fc</color>
+    <color name="colorOrange">#ff9800</color>
+    <color name="colorPurple">#9c27b0</color>
+    <color name="colorPink">#e91e63</color>
+    <color name="colorDeepOrange">#ff5722</color>
+    <color name="colorRed">#e51c23</color>
+    <color name="colorGreen">#259b24</color>
+    <color name="clickItemBackground">#dbdbdb</color>
+    <color name="colorTranscend">#00000000</color>
+    <color name="background">#fafafa</color>
+    <color name="dark_button_background">#303030</color>
+</resources>

@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Notatki</string>
+    <string name="title_toolbar_sections_list">NOTATKI</string>
+    <string name="title_toolbar_settings">Настройки</string>
+    <string name="warning_about_sections">У ВАС НЕТ РАЗДЕЛОВ</string>
+    <string name="warning_about_pages">У ВАС НЕТ СТРАНИЦ В ЭТОМ РАЗДЕЛЕ</string>
+    <string name="hint_section">Название раздела</string>
+    <string name="hint_page">Название страницы</string>
+    <string name="permission_error">Резервное копирование невозможно. Отсутствует разрешение</string>
+    <string name="delete_message">Данное действие необратимо</string>
+    <string name="delete_section_title__dialog">Удалить раздел?</string>
+    <string name="delete_page_title_dialog">Удалить страницу?</string>
+    <string name="text_delete_button">Удалить</string>
+    <string name="hint_content">Контент...</string>
+    <string name="create_section_title_dialog">Создать новый раздел</string>
+    <string name="create_page_title_dialog">Создать новую страницу</string>
+    <string name="text_create_button">Создать</string>
+    <string name="edit_section_title_dialog">Редактировать раздел</string>
+    <string name="edit_page_title_dialog">Редактировать страницу</string>
+    <string name="text_edit_button">Изменить</string>
+    <string name="item_context_menu_share">Поделиться страницей</string>
+    <string name="save_page">Страница сохранена</string>
+    <string name="warning_name_section">Раздел с таким названием уже существует</string>
+    <string name="warning_name_page">Страница с таким названием уже существует</string>
+    <string name="item_context_menu_delete_section">Удалить раздел</string>
+    <string name="item_context_menu_edit_section">Изменить раздел</string>
+    <string name="item_context_menu_delete_page">Удалить страницу</string>
+    <string name="item_context_menu_edit_page">Изменить страницу</string>
+    <string name="title_alert_dialog_permission">Доступ к памяти смартфона</string>
+    <string name="text_alert_dialog_permission">Данное разрешение необходимо для
+        осуществления экспорта/импорта базы данных заметок. Если Вам не требуется
+        данный функционал можете отказаться от него и поставить галочку напротив
+        "Больше не спрашивать"</string>
+    <!-- Colors -->
+    <string name="color_indigo">#3f51b5</string>
+    <string name="color_blue">#5677fc</string>
+    <string name="color_red">#e51c23</string>
+    <string name="color_green">#259b24</string>
+    <string name="color_orange">#ff9800</string>
+    <string name="color_deep_orange">#ff5722</string>
+    <string name="color_purple">#9c27b0</string>
+    <string name="color_pink">#e91e63</string>
+    <!-- Colors -->
+    <!-- Settings -->
+    <string name="alert_dialog_denim_permission">Данная функция недоступна так как отклонено
+        разрешение на чтение/запись с накопителя</string>
+    <string name="date_pattern">ddMMyyyy_HHmmss</string>
+    <string name="name_directory">Notatki</string>
+    <string name="name_database">notatki-db</string>
+    <string name="message_success_update_datebase">База данных успешно обновлена</string>
+    <string name="message_success_save_datebase">Файл успешно сохранен в папку </string>
+    <string name="pref_header_style">Форматирование текста</string>
+    <string name="pref_header_backup">Резервное копирование</string>
+    <string name="pref_header_about_app">О программе</string>
+    <string name="pref_title_bold">Жирный</string>
+    <string name="pref_title_italic">Курсив</string>
+    <string name="pref_title_underline">Подчеркивание</string>
+    <string name="pref_title_bulletlist">Маркированный список</string>
+    <string name="pref_title_quote">Цитирование</string>
+    <string name="pref_title_clear">Отчистить стиль</string>
+    <string name="pref_title_strikethrough">Зачеркивание</string>
+    <string name="pref_title_backup">Экспортировать резервную копию</string>
+    <string name="pref_key_export">export</string>
+    <string name="pref_description_backup">Данная функция позволяет снять копию всей базы данных
+        с вашего устройства
+    </string>
+    <string name="pref_title_import">Импортировать резервную копию</string>
+    <string name="pref_key_import">import</string>
+    <string name="pref_description_import">Данная функция позволяет дополнить базу данных
+    </string>
+    <string name="text_type">text/plain</string>
+    <string name="pref_title_version">Версия</string>
+    <string name="pref_description_version">1.0</string>
+    <string name="pref_title_dev">Разработчик</string>
+    <string name="pref_description_dev">Marta Kaczmarek</string>
+    <string name="pref_url_site">https://developer-kaczmarek.github.io</string>
+    <string name="key_bold">bold_switch</string>
+    <string name="key_italic">italic_switch</string>
+    <string name="key_underline">underline_switch</string>
+    <string name="key_strikethrough">strikethrough_switch</string>
+    <string name="key_bullet">bullet_switch</string>
+    <string name="key_quote">quote_switch</string>
+    <string name="key_clear">clear_switch</string>
+    <!-- Settings -->
+</resources>
