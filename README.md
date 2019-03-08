@@ -10,7 +10,7 @@ Notatki подчёркивает важность содержания, не у�
 ![скриншотик](https://github.com/developer-kaczmarek/GeometricImage/blob/master/screenshotic.png)
 
 ## Скачать Demo
-[Скачать apk можно здесь](https://github.com/developer-kaczmarek/GeometricImage/blob/master/demoApp.apk)
+[![Логотип Google][https://github.com/developer-kaczmarek/Notatki/blob/master/googleplayicon.png]][https://play.google.com/store/apps/details?id=kaczmarek.notatki]
 
 ## Баги / Вопросы /  Предложения
 
