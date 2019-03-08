@@ -7,7 +7,8 @@ Notatki - это простая записная книжка с возможн�
 Notatki подчёркивает важность содержания, не усложняя форму: хоть приложение и имеет базовые инструменты форматирования текста, оно не перегружено массой редко используемых функций, поэтому оно способно быстро работать даже на слабых смартфонах. 
 
 ## UI приложения
-![скриншотик](https://github.com/developer-kaczmarek/GeometricImage/blob/master/screenshotic.png)
+![скриншотик](https://github.com/developer-kaczmarek/Notatki/blob/master/screenshot1.png)
+![скриншотик](https://github.com/developer-kaczmarek/Notatki/blob/master/screenshot2.png)
 
 ## Скачать версию 1.0
 [![Google play](https://github.com/developer-kaczmarek/Notatki/blob/master/imageGooglePlay.png)](https://play.google.com/store/apps/details?id=kaczmarek.notatki)
