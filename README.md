@@ -9,7 +9,7 @@ Notatki подчёркивает важность содержания, не у�
 ## UI приложения
 ![скриншотик](https://github.com/developer-kaczmarek/GeometricImage/blob/master/screenshotic.png)
 
-## Скачать Demo
+## Скачать версию 1.0
 [![Google play](https://github.com/developer-kaczmarek/Notatki/blob/master/imageGooglePlay.png)](https://play.google.com/store/apps/details?id=kaczmarek.notatki)
 
 
