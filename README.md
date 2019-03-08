@@ -10,7 +10,7 @@ Notatki подчёркивает важность содержания, не у�
 ![скриншотик](https://github.com/developer-kaczmarek/GeometricImage/blob/master/screenshotic.png)
 
 ## Скачать Demo
-![скриншотик](https://github.com/developer-kaczmarek/Notatki/blob/master/googleplayicon.png])
+![скриншотик](https://github.com/developer-kaczmarek/Notatki/blob/master/googleplayicon.png)
 
 ## Баги / Вопросы /  Предложения
 
